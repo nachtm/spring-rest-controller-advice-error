@@ -1,6 +1,6 @@
 # Spring Rest Controller Advice Error
 
-This is a minimal reproduction of an error I'm running into with Spring.
+This is a minimal reproduction of an error I'm running into with Spring. Issue opened with Spring here: https://github.com/spring-projects/spring-framework/issues/30945
 
 ## Steps to reproduce
 
